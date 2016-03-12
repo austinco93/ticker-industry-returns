@@ -1,0 +1,6 @@
+dburl=jdbc:mysql://mysql.cs.wwu.edu/reedy330
+# Next line makes annoying warning message go away
+useSSL=false
+# Change the lines below with the correct user and password
+user=corotaa
+password=V9-CF)Qw<Y

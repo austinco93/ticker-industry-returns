@@ -1,0 +1,4 @@
+dburl=jdbc:mysql://mysql.cs.wwu.edu/corotaa
+useSSL=false
+user=corotaa
+password=V9-CF)Qw<Y
