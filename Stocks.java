@@ -14,7 +14,7 @@ import java.io.*;
  * Description: Data Mining using SQL
  */
 
-class Assignment3 {
+class Stocks {
     static Connection conn = null;
     static Connection conn2 = null;
 
